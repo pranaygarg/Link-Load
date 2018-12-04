@@ -1,2 +1,3 @@
 # Link-Load
-Linker and Loader in C
+Loader Simulation in C. 
+This program simulates loading of SIC/XE assembly code into the memory my genearting pseudo real memory addresses.
